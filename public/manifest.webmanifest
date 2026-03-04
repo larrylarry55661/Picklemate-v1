@@ -1,0 +1,10 @@
+{
+  "name": "PickleMate",
+  "short_name": "PickleMate",
+  "description": "Pickleball club session manager",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#0C0F14",
+  "theme_color": "#0C0F14",
+  "icons": []
+}
